@@ -104,7 +104,8 @@
     | FAILED 挑戰失敗 | | SUCCESS 挑戰成功|
     | (LED 快速閃爍)  | | (LED 漸變呼吸燈)|
     +-----------------+ +-----------------+
-##📂 專案目錄結構 (Directory Structure)
+
+📂 專案目錄結構 (Directory Structure)
 .
 ├── Core/
 │   ├── Inc/
